@@ -1,4 +1,4 @@
-//Fabio garces
+//Aplicacion usando HOOK react V6
 import './App.css';
 import {createBrowserRouter,RouterProvider} from "react-router-dom"
 import Home from './components/Home';
